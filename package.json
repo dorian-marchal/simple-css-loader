@@ -1,0 +1,16 @@
+{
+    "name": "simple-css-loader",
+    "version": "0.1.0",
+    "author": "Dorian Marchal",
+    "description": "Lightweight css loader for webpack",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:dorian-marchal/simple-css-loader.git"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ]
+}
