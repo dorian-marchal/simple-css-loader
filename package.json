@@ -1,6 +1,6 @@
 {
     "name": "simple-css-loader",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "Dorian Marchal",
     "description": "Lightweight css loader for webpack",
     "repository": {
